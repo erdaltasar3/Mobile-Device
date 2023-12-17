@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73429866591",
+    "project_id": "kutuphaneotomasyon-1d75d",
+    "storage_bucket": "kutuphaneotomasyon-1d75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73429866591:android:ca6c886d714bf541fa23ea",
+        "android_client_info": {
+          "package_name": "com.example.kutuphane_otomasyon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgFVP7AuLRz7ExruVyHiQXxwmIEDbEAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
